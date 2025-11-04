@@ -12,8 +12,8 @@ Club/course material will be stored here, as well as a link to the website via G
 
 *So far we've covered:*
 
-**1. Introduction to Linux and the Field of Cybersecurity**
-**2. What is...the Internet?** (currently in progress...)
+1. **Introduction to Linux and the Field of Cybersecurity**
+2. **What is...the Internet?** (currently in progress...)
 
 *We have yet to cover:*
 
