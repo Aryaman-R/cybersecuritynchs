@@ -13,11 +13,12 @@ Club/course material will be stored here, as well as a link to the website via G
 *So far we've covered:*
 
 1. **Introduction to Linux and the Field of Cybersecurity**
-2. **What is...the Internet?** (currently in progress...)
+2. **What is...the Internet?**
+
+Currently Covering: 3. **Computer Networks: A Deep Dive** 
 
 *We have yet to cover:*
 
-3. **Computer Networks: A Deep Dive**
 4. **Real Life Applications and Methods of Network Security**
 5. **Cyber Security Principles**
 6. **Network Traffic Analysis with Wireshark**
@@ -32,9 +33,9 @@ Club/course material will be stored here, as well as a link to the website via G
 
 Credits to the following people:
 
-- Mohamed Morsy (Creator of Website and Cybersecurity Board Member)
+- Mohamed Morsy (Creator of Website and Cybersecurity Club VP)
 - Dhanuh Bogam (President of Cybersecurity Club)
-- ... (WIP)
+- Eyad Morsy (Contributor)
 
 
 The curriculum will closely follow the two following courses:
