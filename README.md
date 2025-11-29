@@ -38,7 +38,9 @@ Credits to the following people:
 - Eyad Morsy (Contributor)
 
 
-The curriculum will closely follow the two following courses:
+The curriculum will closely follow the following two courses:
 
 1. Computer Networks: [GeeksforGeeks Course](https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/)
 2. Cyber Security Introduction: [GeeksforGeeks Course 2](https://www.geeksforgeeks.org/ethical-hacking/cyber-security-tutorial/)
+
+Some content will be outside of the scope of the two above courses however.
