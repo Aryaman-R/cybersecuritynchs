@@ -5,7 +5,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mohamed-morsy33/cybersecuritynchs)](https://github.com/mohamed-morsy33/cybersecuritynchs/pulls)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/mohamed-morsy33/cybersecuritynchs)](https://github.com/mohamed-morsy33/cybersecuritynchs/commits/main)
 
-Club/course material will be stored here, as well as a link to the website via GitHub Pages: (Club Site)[https://mohamed-morsy33.github.io/cybersecuritynchs/]
+Club/course material will be stored here, as well as a link to the website via GitHub Pages: [Club Site](https://mohamed-morsy33.github.io/cybersecuritynchs/)
 
 
 ## Topics To Cover
@@ -44,3 +44,4 @@ The curriculum will closely follow the following two courses:
 2. Cyber Security Introduction: [GeeksforGeeks Course 2](https://www.geeksforgeeks.org/ethical-hacking/cyber-security-tutorial/)
 
 Some content will be outside of the scope of the two above courses however.
+
