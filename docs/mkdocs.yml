@@ -1,5 +1,6 @@
 site_name: NCHS Cybersecurity 
 site_url: https://mohamed-morsy33.github.io/cybersecuritynchs/
+use_directory_urls: true
 
 plugins:
   - search

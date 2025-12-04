@@ -46,14 +46,14 @@ Now, go to [virtualbox.org](https://virtualbox.org)
 
 Click on the download for your OS, and install the program by following the instruction wizard.
 
-![Virtual Box](../../../img/virtual_box.png)
+![Virtual Box](../../img/virtual_box.png)
 
 - Now, go to the [Kali Linux website](https://kali.org/get-kali).
 - Download the "Installer" ISO file (`~ 4 GB` in size)
 - Then choose the 64-bit version for modern computers.
 - If your computer is old, it could be 32-bit. If so, you may need to check your system specifications as explained above. However, it probably isn't.
 
-![Kali Installation](../../../img/kali_img.png)
+![Kali Installation](../../img/kali_img.png)
 
 > Remember, Apple Silicon machines will install the ARM64 version of Kali Linux instead!
 
