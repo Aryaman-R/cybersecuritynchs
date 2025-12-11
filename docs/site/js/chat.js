@@ -142,5 +142,5 @@ ${prompt}`;
     });
 
     // Initial greeting
-    addMessage("### Hello! 👋\nI'm your **Cybersecurity AI Assistant**.\n\nAsk me anything about cybersecurity or this terminal!", 'ai');
+    addMessage("### Hello! \nI'm your **Cybersecurity AI Assistant**.\n\nAsk me anything about cybersecurity or this terminal!", 'ai');
 });
